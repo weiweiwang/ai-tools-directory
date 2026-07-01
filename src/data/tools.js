@@ -522,6 +522,15 @@ const tools = [
       useCase: "Meeting notes, team collaboration",
     },
     {
+      id: "tudo",
+      name: "Tudo",
+      type: "Productivity",
+      description: "AI task manager for iPhone that turns voice notes, screenshots, shared content, and goals into organized tasks.",
+      pricing: "Free",
+      website: "https://blynkai.app/tudo/",
+      useCase: "Task capture, planning, personal productivity",
+    },
+    {
       id: "ibmwatson",
       name: "IBM Watson Health",
       type: "Healthcare AI",
@@ -610,6 +619,15 @@ const tools = [
       pricing: "Freemium",
       website: "https://www.healthyminds.ai",
       useCase: "Mental health, therapy, stress management",
+    },
+    {
+      id: "telo",
+      name: "Telo",
+      type: "Healthcare AI",
+      description: "AI wellness companion for iPhone that uses Apple Health context and daily logs to understand readiness, recovery, sleep, and body-state trends.",
+      pricing: "Free",
+      website: "https://blynkai.app/telo/",
+      useCase: "Personal wellness, recovery, sleep insights",
     },
     {
       id: "khanacademyai",
@@ -704,4 +722,3 @@ const tools = [
   ];
 
 export default tools;
-
