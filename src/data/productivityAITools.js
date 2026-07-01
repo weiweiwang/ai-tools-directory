@@ -90,6 +90,15 @@ const productivityAITools = [
       website: "https://otter.ai",
       useCase: "Meeting notes, team collaboration",
     },
+    {
+      id: "tudo",
+      name: "Tudo",
+      type: "Productivity",
+      description: "AI task manager for iPhone that turns voice notes, screenshots, shared content, and goals into organized tasks.",
+      pricing: "Free",
+      website: "https://blynkai.app/tudo/",
+      useCase: "Task capture, planning, personal productivity",
+    },
   ];
   
   export default productivityAITools;
