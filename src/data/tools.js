@@ -701,7 +701,15 @@ const tools = [
       website: "https://www.grammarly.com",
       useCase: "Writing assistance, academic writing",
     },
+    {
+      id: "reverseimagelocation",
+      name: "Reverse Image Location",
+      type: "Image Analysis",
+      description: "AI photo geolocation tool that analyzes visible scene clues for OSINT research and GeoGuessr-style practice.",
+      pricing: "Freemium",
+      website: "https://reverseimagelocation.com/",
+      useCases: "Image geolocation, OSINT verification, GeoGuessr practice",
+    },
   ];
 
 export default tools;
-
